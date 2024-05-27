@@ -1,0 +1,38 @@
+@charset "utf-8";
+li{
+    font-size: 15px;
+}
+.text-blue{
+    font-size: 30px;
+    color: black;
+    background-color: rgb(96, 174, 136);
+}
+body{
+    background-color: rgb(145, 232, 203);
+}
+.text-brown{
+    color: rgb(98, 98, 225);
+}
+#bg-black{
+    font-size: 30px;
+    background-color: rgba(122, 131, 232, 0.858);
+}
+#bg-whoit{
+    font-size: 30px;
+    background-color: rgb(173, 101, 237);
+}
+.text-yellow{
+    font-size: 30px;
+    background-color: rgb(215, 134, 159);
+}
+.text-red{
+    font-size: 22px;
+}
+#bg-blue{
+    font-size: 30px;
+    background-color: rgb(234, 207, 141);
+}
+.text-siro{
+    font-size: 30px;
+    background-color: rgba(236, 236, 222, 0.648);
+}
